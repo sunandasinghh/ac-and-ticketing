@@ -14,3 +14,11 @@ I entered the wrong passowrd 4 times and then my account was lockced out.
 
 To unlock the account I first went to active directory users and then searched for the user account and then went to the account tab and unlocked the account
 ![alt text](https://github.com/sunandasinghh/ac-and-ticketing/blob/2047a11a54e0b9430b85a8b66b7ca27e6ef4ea4c/account%20lockout%20scenario/unlocking%20account.jpeg)
+
+
+TICKET RAISED:To simulate a real-world IT support environment, I created a Jira ticket documenting the account lockout issue, investigation steps, and resolution process.
+
+![alt text](https://github.com/sunandasinghh/ac-and-ticketing/blob/1aab5094c771945d1efd522667d80e06013d9edd/account%20lockout%20scenario/ticket1.jpeg)
+
+
+![alt](https://github.com/sunandasinghh/ac-and-ticketing/blob/1aab5094c771945d1efd522667d80e06013d9edd/account%20lockout%20scenario/ticket2.jpeg)
