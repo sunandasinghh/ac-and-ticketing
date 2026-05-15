@@ -22,6 +22,8 @@ Interns
 These OUs were used to organize users and computers in a structured Active Directory environment.
 
 
+![alt](https://github.com/sunandasinghh/ac-and-ticketing/blob/1c46a362b05d379ced0bfea9cea41d32b8b84861/addingousandusers/showing%20servers.jpeg)
+
 
 
 User Management
@@ -33,6 +35,9 @@ Organized users into departmental OUs
 Verified account creation in Active Directory
 
 
+![alt](https://github.com/sunandasinghh/ac-and-ticketing/blob/1c46a362b05d379ced0bfea9cea41d32b8b84861/addingousandusers/hrcreated.jpeg)
+
+
 Windows 10 Domain Join
 A Windows 10 virtual machine was configured and joined to the Active Directory domain.
 Tasks performed:
@@ -40,6 +45,8 @@ Configured network connectivity between VMs
 Joined Windows 10 client to the domain
 Verified successful domain authentication
 Logged into the client machine using domain credentials
+
+![alt](https://github.com/sunandasinghh/ac-and-ticketing/blob/1c46a362b05d379ced0bfea9cea41d32b8b84861/addingousandusers/creatingvm.jpeg)
 
 
 
