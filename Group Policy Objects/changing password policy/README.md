@@ -16,35 +16,15 @@ among those options click on
 
 
               
-              Computer Configuration 
+              Computer Configuration
 
-
-
-
-              
               policy 
 
-
-
-
-
-              
               windows settings 
-
-
-
-
               
-              security settings 
+              security settings
 
-
-
-
-              
               account policy
-
-
-
               
               password policy
 
