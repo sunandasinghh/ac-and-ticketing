@@ -1,10 +1,10 @@
-first we will go to computer configuration and under there we will go to account policy and then account lockout threshold and place it to 4 and press ok.
+first we will go to computer configuration and under there we will go to account policy and then account lockout threshold and place it to 4  because it is a home lab it could be different in  differnt companies and press ok.
 
 
 ![alt text](https://github.com/sunandasinghh/ac-and-ticketing/blob/e3b581ed4dd48b6d5c55169f35de478ac4209ef3/account%20lockout%20scenario/puttingcaponnoofattempt.jpeg)
 
 
-I then alloted for how much time will the account be locked out for as I am making this for practice then i alloted the time limit for 10 minutes. 
+I then alloted for how much time will the account be locked out for as I am making this for practice so i alloted the time limit for 10 minutes. 
 
 
 ![Alt text](https://github.com/sunandasinghh/ac-and-ticketing/blob/e3b581ed4dd48b6d5c55169f35de478ac4209ef3/account%20lockout%20scenario/changes%20made.jpeg)
