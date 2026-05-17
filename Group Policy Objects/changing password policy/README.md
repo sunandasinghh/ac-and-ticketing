@@ -10,12 +10,47 @@ then right click on your default domain mine is mydom.com
 
 among those options click on 
               edit
+
+
+
+
+
+              
               Computer Configuration 
+
+
+
+
+              
               policy 
+
+
+
+
+
+              
               windows settings 
+
+
+
+
+              
               security settings 
+
+
+
+
+              
               account policy
+
+
+
+              
               password policy
+
+
+
+              
 In the passsword policy anything we want can be changed according to our needs because my account is for practice i didnot change anything.
 
 
