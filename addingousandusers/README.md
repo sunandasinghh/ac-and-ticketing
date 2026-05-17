@@ -1,6 +1,6 @@
-This project demonstrates the setup and management of a basic Active Directory home lab environment using Windows Server and a Windows 10 client machine.
+This project demonstrates the setup and management of a basic Active Directory home lab environment using Windows Server 2019 and a Windows 10 client machine in Oracle VirtualBox manager. 
 The lab was configured to simulate a real-world enterprise environment by creating Organizational Units (OUs), managing domain users, and joining a Windows 10 client system to the domain.
-Technologies used wkike making thsi:
+Technologies used while making thsi:
 Windows Server
 Active Directory Users and Computers
 Windows 10
